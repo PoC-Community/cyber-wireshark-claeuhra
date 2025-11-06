@@ -25,3 +25,17 @@ JavaScript Object Notation: application/json
 on voit qu'il veut se sign in à cette addresse : http://127.0.0.1:5000/signin
 
 et on à accès a son username et son pwd : {"username":"Groot", "password":"Je_sappelle_Groot"}"
+
+Partie importante trouvée :
+
+JavaScript Object Notation: application/json
+    Object
+        Member: error
+            [Path with value: /error:login or password does not match]
+            [Member with value: error:login or password does not match]
+            String value: login or password does not match
+            Key: error
+            [Path: /error]
+
+
+on voit qu'il a fail le mdp
