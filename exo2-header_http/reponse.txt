@@ -1,0 +1,10 @@
+##
+## EPITECH PROJECT, 2025
+## cyber-wireshark-claeuhra
+## File description:
+## reponse.txt
+##
+
+username:password
+
+le user a bien sign out
