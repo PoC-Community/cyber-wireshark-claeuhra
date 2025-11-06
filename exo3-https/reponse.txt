@@ -1,0 +1,8 @@
+##
+## EPITECH PROJECT, 2025
+## cyber-wireshark-claeuhra
+## File description:
+## reponse.txt
+##
+
+on voit que ça utilise https donc c'est crypté
