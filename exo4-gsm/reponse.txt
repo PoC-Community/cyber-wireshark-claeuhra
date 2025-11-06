@@ -1,0 +1,13 @@
+##
+## EPITECH PROJECT, 2025
+## cyber-wireshark-claeuhra
+## File description:
+## reponse.txt
+##
+
+(UCS2/UTF-16BE)
+
+>FROM: +33100000002;
+>TO :+33200000002;
+>MESSAGE : GSM is awsome !
+
