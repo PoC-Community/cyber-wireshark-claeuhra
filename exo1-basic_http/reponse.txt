@@ -1,0 +1,27 @@
+##
+## EPITECH PROJECT, 2025
+## cyber-wireshark-claeuhra
+## File description:
+## reponse.txt
+##
+
+Partie importante trouvée :
+
+[Full request URI: http://127.0.0.1:5000/signin]
+    [HTTP request 1/1]
+    [Response in frame: 10]
+    File Data: 52 bytes
+JavaScript Object Notation: application/json
+    Object
+        Member: username
+        Member: password
+            [Path with value: /password:Je_sappelle_Groot]
+            [Member with value: password:Je_sappelle_Groot]
+            String value: Je_sappelle_Groot
+            Key: password
+            [Path: /password]
+
+
+on voit qu'il veut se sign in à cette addresse : http://127.0.0.1:5000/signin
+
+et on à accès a son username et son pwd : {"username":"Groot", "password":"Je_sappelle_Groot"}"
